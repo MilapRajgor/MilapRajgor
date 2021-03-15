@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MilapRajgor
 - 👀 I’m interested in Python,AI,ML,GameDeveloping,Pentesting
 - 🌱 I’m currently learning Python
-#- 💞️ I’m looking to collaborate on ...
 - 📫 Get in touch @: milap.newton@gmail.com
 
 <!---
